@@ -1,0 +1,12 @@
+.Net Expert Team:
+---------------------------------------------------------------------------------------
+You have to open file by clicking on the nerddinner.sln file.
+
+Debug it by Ctrl + Shift + B.
+
+Run using F5 if you want to debug using break point
+	othervise  do Ctrl + F5 for direct run in browser.
+
+Have fun :)
+
+For more follow in .Net Expert Team site.
