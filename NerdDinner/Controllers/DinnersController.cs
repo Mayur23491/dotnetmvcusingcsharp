@@ -10,7 +10,7 @@ namespace NerdDinner.Controllers
     public class DinnersController : Controller
     {
         //
-        // GET: /Dinners/
+        // GET: /Dinners/ repository
         DinnerRepository repository = new DinnerRepository();
         public ActionResult Index()
         {
